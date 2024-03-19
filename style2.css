@@ -1,0 +1,93 @@
+
+
+body{
+    background-color: rgb(255, 239, 245);
+    font-family: "Outfit"; sans-serif;
+    font-size:20px
+    }
+    .type1{
+        display:flex;
+        justify-content:center;
+    }
+.type 1{
+    width: 30%
+    display: block;
+}
+.center{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+h1{
+    font-family:"Silkscreen";"Outfit";sans-serif;
+  color: purple;
+  font-weight: 400
+}
+
+.button {
+background-color: pink;
+font-size: 30px;
+border-radius: 15px;
+padding: 14px 40px;
+}
+
+.type2{
+    display:flex;
+    justify-content:center;
+}
+.type 2{
+width: 30%
+display: block;
+}
+
+
+.type3{
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 30px; 
+}
+
+#images{
+    text-align:center;
+    vertical-align: middle;
+}
+
+
+.type4{
+    display: inline-block;
+    margin-left: 350px;
+    margin-right: 30px;
+    height: 30px; 
+}
+
+#images{
+    text-align:center;
+    vertical-align: middle;
+}
+    
+.type5{
+    display: inline-block;
+    margin-left: 350px;
+    margin-right: 30px;
+    height: 30px; 
+}
+
+#images{
+    text-align:center;
+    vertical-align: middle;
+}
+
+
+.type6{
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 30px; 
+}
+
+#images{
+    text-align:center;
+    vertical-align: middle;
+}
